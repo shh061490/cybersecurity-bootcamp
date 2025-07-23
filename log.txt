@@ -1,0 +1,3 @@
+help with error
+we may make an error while scripting
+learn from your error or erros
